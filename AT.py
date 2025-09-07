@@ -8,10 +8,11 @@ y = np.log(x)
 plt.figure(figsize=(10, 5))
 plt.plot(x, y, label='ln(x)', color='blue')
 
-plt.title('График натурального логарифма')
+plt.title('Р“СЂР°С„РёРє РЅР°С‚СѓСЂР°Р»СЊРЅРѕРіРѕ Р»РѕРіР°СЂРёС„РјР°')
 plt.xlabel('x')
 plt.ylabel('ln(x)')
 plt.grid(True)
 plt.legend()
 
 plt.show()
+
